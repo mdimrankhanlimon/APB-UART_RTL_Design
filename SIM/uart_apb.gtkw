@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Thu Sep 19 19:15:49 2024
+[*]
+[dumpfile] "/home/rashid/ras_work/uart/design_2/SIM/dump.vcd"
+[dumpfile_mtime] "Thu Sep 19 18:22:45 2024"
+[dumpfile_size] 19854623
+[savefile] "/home/rashid/ras_work/uart/design_2/SIM/uart_apb.gtkw"
+[timestart] 5517458900
+[size] 1920 977
+[pos] -39 -39
+*-15.675631 5517670000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 180
+[sst_expanded] 1
+[sst_vpaned_height] 270
+@800201
+-uart_apb_sig
+@23
+tb_top.PADDR_i[9:0]
+@29
+tb_top.PCLK_i
+tb_top.PSEL_i
+tb_top.PENABLE_i
+tb_top.PREADY_o
+@23
+tb_top.PRDATA_o[7:0]
+@29
+tb_top.PRESETn_i
+tb_top.PSLVERR_o
+@23
+tb_top.PWDATA_i[7:0]
+@29
+tb_top.PWRITE_i
+tb_top.rx_line
+tb_top.tx_line
+@1000201
+-uart_apb_sig
+[pattern_trace] 1
+[pattern_trace] 0
